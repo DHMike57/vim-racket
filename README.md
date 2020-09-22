@@ -17,3 +17,8 @@ Most of the real work on this module was done by [Dale Vaillancourt](https://git
 To see all the contributors,
 
     git shortlog -sn
+
+Configuration:
+=============
+set g:vim_racket_disable_browserhelp=1
+in .vimrc to disable html docs (vrod compat) 
